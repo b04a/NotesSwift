@@ -1,3 +1,3 @@
 # NotesSwift
 
-[MagnificationGesture](https://github.com/plusfuturehendrix/NotesSwift/tree/main/MagnificationGesture)
+[MagnificationGesture & Увеличение Жест](https://github.com/plusfuturehendrix/NotesSwift/tree/main/MagnificationGesture)
